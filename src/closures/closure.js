@@ -10,7 +10,6 @@ moneyBox(10);
 // --------------------------------------------
 
 const moneyBox = () => {
-  debugger;
   var saveCoins = 0;
   const countCoins = coins => {
     saveCoins += coins;
